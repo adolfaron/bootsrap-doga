@@ -11,7 +11,9 @@ body{
 #active{
     color: #ffffff;
 }
-
+.nav-link:hover{
+    color: rgb(5, 7, 146);
+}
 .bi-camera{
     text-align: center;
     padding-top: 0px;
